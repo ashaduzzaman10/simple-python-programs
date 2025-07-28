@@ -95,4 +95,5 @@ def main():
         print("Something went wrong in the main program: " + str(error))
 
 
-main()
+if __name__ == "__main__":
+    main()
